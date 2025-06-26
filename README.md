@@ -60,7 +60,7 @@ There are two ways to use this tool.
 python app/main.py
 ```
 
-### 2. Running on localhost  FastAPI
+### 2. Running on localhost using FastAPI
 #### 1. **Run the FastAPI server**
 
 ```sh
