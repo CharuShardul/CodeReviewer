@@ -27,7 +27,7 @@ This is a simple project to illustrate how powerful locally run LLM models can b
 
 1. **Clone the repository:**
     ```sh
-    git clone <your-repo-url>
+    git clone <repo-url>
     cd llama_code_reviewer
     ```
 
